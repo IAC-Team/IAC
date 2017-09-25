@@ -29,7 +29,7 @@
       <file leaf-file-name="tiff_show.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tiff_show.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.11195446" vertical-offset="1033" max-vertical-offset="1560">
+            <state vertical-scroll-proportion="0.7533207" vertical-offset="695" max-vertical-offset="1560">
               <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -387,13 +387,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="python-line">
-          <url>file://$PROJECT_DIR$/tiff_show.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="6" />
     </breakpoint-manager>
   </component>
@@ -456,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tiff_show.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11195446" vertical-offset="1033" max-vertical-offset="1560">
+        <state vertical-scroll-proportion="0.7533207" vertical-offset="695" max-vertical-offset="1560">
           <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
