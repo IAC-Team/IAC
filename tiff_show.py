@@ -10,6 +10,8 @@ import numpy as np
 import tifffile as tiff
 
 # %matplotlib inline
+import matplotlib as mpl
+mpl.use('Agg')
 import matplotlib.pyplot as plt
 from matplotlib import cm
 
